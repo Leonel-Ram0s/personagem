@@ -1,0 +1,18 @@
+body{
+    background-color:  blueviolet; 
+}
+
+img{
+    width: 40vh;
+    height: 40vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+span{
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
